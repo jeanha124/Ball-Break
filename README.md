@@ -19,6 +19,7 @@ This game be made with canvas.js, CSS, and most likely vanilla JS and HTML.
 
 ### Wireframes
 
+![wireframe](assets/Wireframe.png)
 
 ### Backend
 
