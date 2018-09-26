@@ -21,6 +21,8 @@ This game be made with canvas.js, CSS, and most likely vanilla JS and HTML.
 
 ![wireframe](assets/Wireframe.png)
 
+Create Sound Toggle Button right below the game.
+
 ### Backend
 
 The backend will only have a database to contain the scores.
