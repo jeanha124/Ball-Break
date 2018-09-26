@@ -27,5 +27,7 @@ The backend will only have a database to contain the scores.
 
 ### Implementation Timeline
 
-
+- Balls and Bricks - 2 day
+- Stages and Counter - 1 day
+- Scoreboard and Music - 1 day
  
