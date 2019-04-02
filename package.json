@@ -1,0 +1,20 @@
+{
+  "name": "Ball-Break",
+  "version": "1.0.0",
+  "description": "Treasure Finder is a side-scroller where you catch as much coins as you can.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanha124/Ball-Break.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanha124/Ball-Break/issues"
+  },
+  "homepage": "https://github.com/jeanha124/Ball-Break#readme"
+}

@@ -2,8 +2,10 @@
   text-align: center;
 }
 
-canvas {
+#myCanvas {
   margin-top: 10%;
-  background: aliceblue;
-  border: 1px solid #ccc;
+  background: url('../assets/sprites/background.png') rgb(50, 152, 241) no-repeat center;
+  background-size: cover;
+  border: 3px solid #ccc;
 }
+
